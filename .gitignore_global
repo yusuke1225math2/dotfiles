@@ -1,0 +1,9 @@
+*~
+*.DS_Store
+*__pycache__
+*.git
+*.gitignore
+*.pyc
+*.sqlite
+*.vscode
+*.pkl
